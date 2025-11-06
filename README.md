@@ -1,5 +1,6 @@
 <!---
 {
+  "id": "60b25ba1-4dd1-4ab9-a0b4-95408b08f6dc",
   "depends_on": [],
   "author": ["Tabea Röthemeyer","Stephan Bökelmann"],
   "first_used": "2025-04-02",
