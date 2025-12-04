@@ -2,7 +2,7 @@
 {
   "id": "60b25ba1-4dd1-4ab9-a0b4-95408b08f6dc",
   "teaches": "Git: Fork and Contribute on Github",
-  "depends_on": [],
+  "depends_on": ["722698f1-d030-4813-ab8a-b9fd0c92bf27"],
   "author": ["Tabea Röthemeyer","Stephan Bökelmann"],
   "first_used": "2025-04-02",
   "keywords": ["learning", "exercises", "github", "git"]
